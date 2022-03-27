@@ -5,7 +5,10 @@ Example data science portfolio
 ## [Project 1: High-Dimensional Embeddings of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
 * High-dimensional embedding using Google's Universal Sentence Encoder (USE)
 * 2-dimensional cluster visualization using t-Distributed Stochastic Neighbor Embedding (t-SNE)
-* I used Google's Natural Language Processing (NLP) embedding algorithms model, Universal Sentence Encoder, that produces 512 embedding dimensions
+* I started with using Google's Natural Language Processing (NLP) embedding algorithms model, Universal Sentence Encoder, to produce 512 embedding dimensions for each dating essay.
+* One of the ways of trying to visualize high-dimensional data is a tool called t-distributed Stochastic Neighbor Embedding or t-SNE. With t-SNE, we can look at the embeddings in two or three dimensional space. This is useful for checking if clusters existed in the data. For example, this is most famously observed in the example of passing through the MNIST data set of handwritten digits 0 to 9 and seeing 10 clusters quite clearly.
+* I explored essay lengths ranging from 30 (roughly the first four to five words in an essay), to 70 (first sentence, or the length of good ”tweets” that were liked and most often retweeted on the Twitter app), and to 140 (first two sentences, or the character count limit for Twitter up through late-2017)
+* Visualizations by age group, gender, pet preferences did not reveal any clear and separate clusters
 
 
 ## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
@@ -15,7 +18,9 @@ Example data science portfolio
 
 
 ## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
-* Support vector clustering and classification
+* I used Support Vector Machine (SVM) clustering to identify classifications in the dating essays.
+* We applied the SVC classification tool to the 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. The classification heat maps and accuracy metrics indicated that there appeared to be something within the embeddings that was predictive of the gender of the dating app user who wrote the essay.
+* Similar explorations by age group did not show classifications of good accuracies other than for those in their 20s.
 
 
 ## [Project 4: Sentiment Analysis of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)

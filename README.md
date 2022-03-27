@@ -1,5 +1,18 @@
-# Ken_Portfolio
+# Grace Yang data science portfolio examples
 Example data science portfolio
+
+## [Project 1: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+* Applied Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
+* For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
+* Instead a common technique used that makes embedding comparisons more efficient is Approximate Nearest Neighbors (ANN). Given a customer’s self-summary essay or ”subject essay” and the position of its embedding in the high-dimensional space, ANN will search for other essay whose embeddings are mapped closer to this subject essay.
+
+
+## [Project 1: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+* Sentiment analysis
+* High-dimensional embedding using Google's Universal Sentence Encoder and 2-dimensional cluster visualization using t-Distributed Stochastic Neighbor Embedding (t-SNE)
+* Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
+* Support vector clustering and classification
+* 
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.

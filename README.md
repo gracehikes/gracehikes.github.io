@@ -1,18 +1,40 @@
 # Grace Yang data science portfolio examples
 Example data science portfolio
 
-## [Project 1: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
-* Applied Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
+
+## [Project 1: High-Dimensional Embeddings of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+* High-dimensional embedding using Google's Universal Sentence Encoder (USE)
+* 2-dimensional cluster visualization using t-Distributed Stochastic Neighbor Embedding (t-SNE)
+* I used Google's Natural Language Processing (NLP) embedding algorithms model, Universal Sentence Encoder, that produces 512 embedding dimensions
+
+
+## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+* I used Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
 * Instead a common technique used that makes embedding comparisons more efficient is Approximate Nearest Neighbors (ANN). Given a customer’s self-summary essay or ”subject essay” and the position of its embedding in the high-dimensional space, ANN will search for other essay whose embeddings are mapped closer to this subject essay.
 
 
-## [Project 1: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
-* Sentiment analysis
-* High-dimensional embedding using Google's Universal Sentence Encoder and 2-dimensional cluster visualization using t-Distributed Stochastic Neighbor Embedding (t-SNE)
-* Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
+## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
 * Support vector clustering and classification
-* 
+
+
+## [Project 4: Sentiment Analysis of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+* Sentiment Analysis
+
+
+## [Project 5: Online Screen Time and Teen Mental Health](https://github.com/PlayingNumbers/ds_salary_proj)
+* Causal inference study using largest survey on 20,000 households in the U.K.
+
+
+## [Project 6: Regression Analysis on Heart Attack Patients](https://github.com/PlayingNumbers/ds_salary_proj)
+* regression, etc.
+
+
+## [Project 7: Time Series Study of Shark Attacks in the Last Century](https://github.com/PlayingNumbers/ds_salary_proj)
+* time series, etc.
+
+
+
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.

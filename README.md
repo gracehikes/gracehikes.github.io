@@ -1,4 +1,4 @@
-# Grace Yang data science portfolio examples (THEME LEAP DAY)
+# Grace Yang data science portfolio examples (THEME SLATE)
 Example data science portfolio
 
 

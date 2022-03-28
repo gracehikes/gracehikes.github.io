@@ -12,14 +12,13 @@ Example data science portfolio
 
 
 ## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
-* I used Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
-* Instead a common technique used that makes embedding comparisons more efficient is Approximate Nearest Neighbors (ANN). Given a customer’s self-summary essay or ”subject essay” and the position of its embedding in the high-dimensional space, ANN will search for other essay whose embeddings are mapped closer to this subject essay.
+* I used Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations. Given a customer’s self-summary essay or ”subject essay” and the position of its embedding in the high-dimensional space, ANN will search for other essay whose embeddings are mapped closer to this subject essay.
 
 
 ## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
 * I used Support Vector Machine (SVM) clustering to identify classifications in the dating essays.
-* We applied the SVC classification tool to the 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. The classification heat maps and accuracy metrics indicated that there appeared to be something within the embeddings that was predictive of the gender of the dating app user who wrote the essay.
+* We applied the SVC classification tool to the 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%.
 * Similar explorations by age group did not show classifications of good accuracies other than for those in their 20s.
 
 

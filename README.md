@@ -29,6 +29,8 @@ Causal inference study using a 2019 survey on 20,000 households in the U.K. It i
   <img src="/images/project%20report%207%20emoticons.png" width=90% height=90%>
 </p>
 
+![](/images/project%20report%207%20emoticons.png)
+
 There appeared to be adverse effects on a young person’s mental well-being when they spent in excess of 4 hours on social media chatting and interactions during a normal school day. The analysis of responses for six mental well-being questions from the U.K. 2019 data, when compared for different amounts of time that the young people spent on social media, produced such indications. While the effect estimates varied in magnitude, they were all directionally toward the more unhappy end of the scale for the six questions.
 
 <p align="center">

@@ -18,7 +18,7 @@ Example data science portfolio
 * The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show classifications of good accuracies other than for those in their 20s.
 
 
-## [Project 4: Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)
+## [Project 4: Regression Analysis of Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)
 * Causal inference study using a 2019 survey on 20,000 households in the U.K. It included questions on how much time the young person spent on social media, computer- and other screen-time (game consoles, computer games, TV). There were also questions on how the child felt about different areas of life for example school work, appearance, family, friends, school and life as a whole. The response section showed a panel of different emoticon faces, where '1' is very happy to '7' very unhappy.
 * There appeared to be adverse effects on a young person’s mental well-being when they spent in excess of 4 hours on social media chatting and interactions during a normal school day. The analysis of responses for six mental well-being questions from the U.K. 2019 data, when compared for different amounts of time that the young people spent on social media, produced such indications. While the effect estimates varied in magnitude, they were all directionally toward the more unhappy end of the scale for the six questions.
 

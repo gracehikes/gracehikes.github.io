@@ -10,8 +10,6 @@ Example data science portfolio
 
 ![](/images/tSNE%20visual%20cluster%20by%20age.png)
 
-![](/images/tSNE%20visual%20cluster%20by%20gender.png)
-
 
 ## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.

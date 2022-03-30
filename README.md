@@ -8,7 +8,7 @@ Example data science portfolio
 
 ![](/images/essay%20lengths%2030%2070%20140%20example.png)
 
-![](/images/essay%20lengths%2030%2070%20140%20example%2080.png)
+![](/images/essay%20lengths%2030%2070%20140%20example%2095.png)
 
 ![](/images/tSNE%20visual%20cluster%20by%20age115.png)
 

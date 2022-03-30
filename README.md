@@ -1,4 +1,4 @@
-# Grace Yang data science portfolio examples (THEME SLATE)
+# Grace Yang data science portfolio examples (THEME MINIMAL)
 Example data science portfolio
 
 

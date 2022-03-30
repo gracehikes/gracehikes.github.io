@@ -2,7 +2,7 @@
 Example data science portfolio
 
 
-## [Project 1: Cluster Visualizations of 60,000 Dating Essays Embeddings](https://github.com/gracehikes/proj_dating_essays_tSNE_clusters)
+## [Project 1: Cluster Visualizations of 60,000 Dating Essay Embeddings](https://github.com/gracehikes/proj_dating_essays_tSNE_clusters)
 * I first applied Google's Universal Sentence Encoder algorithm in Colab, a Natural Language Processing (NLP) embedding model, to get 512 embedding dimensions for each dating essay. It is not possible to visualize essay clusters in such high-dimensional data. I used the t-Stochastic Neighbor Embedding (t-SNE) algorithm to represent the high-dimensional data in a space with reduced dimensions. In the paper for t-SNE algorithm, we can see 10 distinct clusters after high-dimensional MNIST handwritten digits 0-9 embeddings were passed through the t-SNE algorithm ([L.van der Maaten and G. Hinton, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbclid=IwA)).
 * I explored embeddings from various essay lengths: 30 characters (roughly the first four to five words in an essay), 70 characters (first sentence, or the length of good ”tweets” that were liked and most often retweeted on the Twitter app), and 140 characters (first two sentences, or the character count limit for Twitter up through late-2017). I performed t-SNE visualizations by age group, gender, pet preferences to check for clear and separate clusters.
 

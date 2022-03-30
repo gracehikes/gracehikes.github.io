@@ -6,6 +6,8 @@ Example data science portfolio
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
 * I applied Google's TensorFlow Hub (TF-Hub) model to dating essays to get high-dimensional embeddings. These embeddings were then used as input for Approximate Nearest Neighbors (ANN) algorithm and generates a ranking of semantic similarities between the text embeddings. This helps to generate app user matches and recommendations very quickly without losing too much accuracy.
 
+![](/images/sample%20essay%20and%20top%203%20ANN%20matches.png)
+
 
 ## [Project 2: Cluster Visualizations of 60,000 Dating Essay Embeddings](https://github.com/gracehikes/proj_dating_essays_tSNE_clusters)
 * I first applied Google's Universal Sentence Encoder algorithm in Colab, a Natural Language Processing (NLP) embedding model, to get 512 embedding dimensions for each dating essay. It is not possible to visualize essay clusters in such high-dimensional data. I used the t-Stochastic Neighbor Embedding (t-SNE) algorithm to represent the high-dimensional data in a space with reduced dimensions. In the paper for t-SNE algorithm  ([L.van der Maaten and G. Hinton, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbclid=IwA)), we can see 10 distinct clusters after high-dimensional embeddings for MNIST handwritten digits 0-9 were passed through the t-SNE algorithm and plotted in two dimensions.

@@ -8,7 +8,7 @@ Example data science portfolio
 
 ![](/images/essay%20lengths%2030%2070%20140%20example.png)
 
-![](/images/tSNE%20visual%20cluster%20by%20age125.png)
+![](/images/tSNE%20visual%20cluster%20by%20age.png)
 
 
 ## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)

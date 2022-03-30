@@ -6,7 +6,7 @@ Example data science portfolio
 * I first applied Google's Universal Sentence Encoder, a Natural Language Processing (NLP) embedding algorithms model, to get 512 embedding dimensions for each dating essay. It is not possible to visualize clusters in such high-dimensional data. I used the t-Stochastic Neighbor Embedding (t-SNE) algorithm to represent the high-dimensional data in a space with reduced dimensions, usually two or three. In the paper for t-SNE algorithm, we can see 10 distinct clusters after high-dimensional MNIST handwritten digits 0-9 embeddings were passed through the t-SNE algorithm ([L.van der Maaten and G. Hinton, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbclid=IwA)).
 * I explored embeddings from various essay lengths: 30 characters (roughly the first four to five words in an essay), 70 characters (first sentence, or the length of good ”tweets” that were liked and most often retweeted on the Twitter app), and 140 characters (first two sentences, or the character count limit for Twitter up through late-2017). I performed t-SNE visualizations by age group, gender, pet preferences to check for clear and separate clusters.
 
-<img src="https://github.com/gracehikes/gracehikes.github.io/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width="100" height="100">
+<img src="https://github.com/gracehikes/gracehikes.github.io/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width="400">
 
 ![](/images/tSNE%20visual%20cluster%20by%20age.png)
 

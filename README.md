@@ -11,7 +11,7 @@ Example data science portfolio
 ![](/images/tSNE%20visual%20cluster%20by%20age.png)
 
 
-## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
+## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/gracehikes/proj_ANN_essay_pairings)
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
 * I used Approximate Nearest Neighbors (ANN) to help filter/rank search algorithms and dating app user match recommendations. Given a customer’s self-summary essay or ”subject essay” and the position of its embedding in the high-dimensional space, ANN will search for other essay whose embeddings are mapped closer to this subject essay.
 

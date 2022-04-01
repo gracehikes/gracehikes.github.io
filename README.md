@@ -19,7 +19,7 @@ Example data science portfolio
 
 
 ## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/gracehikes/proj_classification_SVC)
-* I used Support Vector Machine (SVM) clustering tool to identify classifications in the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Text analyses on what people write in their dating profile self-summaries may help uncover similarities or differences for features like gender, age group, socio-economic status, etc.
+* I used Support Vector Machine (SVM) clustering tool to identify classifications in the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Can we identify a dating app user's feature like gender or age group using SVC algorithms?
 * The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show good classification accuracies.
 
 ![](/images/SVC%20classification%20gender.png)

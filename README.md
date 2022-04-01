@@ -18,9 +18,9 @@ Example data science portfolio
 ![](/images/tSNE%20visual%20cluster%20by%20age.png)
 
 
-## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/PlayingNumbers/ds_salary_proj)
-* I used Support Vector Machine (SVM) clustering tool to identify classifications in the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Text analyses on what people write in their dating profile self-summaries may help uncover similarities or differences for different features like gender, age group, socio-economic status, etc.
-* The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show classifications of good accuracies other than for those in their 20s.
+## [Project 3: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/gracehikes/proj_classification_SVC)
+* I used Support Vector Machine (SVM) clustering tool to identify classifications in the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Text analyses on what people write in their dating profile self-summaries may help uncover similarities or differences for features like gender, age group, socio-economic status, etc.
+* The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show good classification accuracies.
 
 
 ## [Project 4: Regression Analysis of Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)

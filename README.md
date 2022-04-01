@@ -1,5 +1,4 @@
-# Grace Yang data science portfolio examples
-Example data science portfolio
+Examples of Grace Yang's data science portfolio
 
 
 ## [Project 1: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/gracehikes/proj_ANN_essay_pairings)

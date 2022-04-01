@@ -26,7 +26,7 @@ Examples of Grace Yang's data science portfolio
 
 ## [Project 4: Regression Analysis of Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)
 * I explored the relationship between social media screen time spent and its effect on youth mental health. My causal inference study used a large 2019 survey on 20,000+ households in the U.K. It included questions on how much time the young person spent on social media, computer- and other screen-time (game consoles, computer games, TV). There were also questions on how the child felt about different areas of life for example school work, appearance, family, friends, school and life as a whole.
-* There appeared to be adverse effects on a young person’s mental well-being when they spent in excess of 4 hours on social media chatting and interactions during a normal school day. The analysis of responses for six mental well-being questions from the U.K. 2019 data, when compared for different amounts of time that the young people spent on social media, produced such indications. While the effect estimates varied in magnitude for the questions, I found that they were all directionally toward the more unhappy end of the emoticon scale.
+* There appeared to be adverse effects on a young person’s mental well-being when they spent in excess of 4 hours on social media chatting and interactions during a normal school day. The measurements came from six mental well-being questions and responses from youths aged 10-15 years old in the U.K. survey. While the mental-health effect estimates varied in magnitude for the questions, I found that they were all toward the more unhappy direction of the emoticon scale.
 
 ![](/images/project%20report%207%20emoticons.png)
 

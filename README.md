@@ -22,6 +22,8 @@ Example data science portfolio
 * I used Support Vector Machine (SVM) clustering tool to identify classifications in the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Text analyses on what people write in their dating profile self-summaries may help uncover similarities or differences for features like gender, age group, socio-economic status, etc.
 * The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show good classification accuracies.
 
+![](/images/SVC%20classification%20gender.png)
+
 
 ## [Project 4: Regression Analysis of Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)
 * Causal inference study using a 2019 survey on 20,000 households in the U.K. It included questions on how much time the young person spent on social media, computer- and other screen-time (game consoles, computer games, TV). There were also questions on how the child felt about different areas of life for example school work, appearance, family, friends, school and life as a whole. The response section showed a panel of different emoticon faces, where '1' is very happy to '7' very unhappy.

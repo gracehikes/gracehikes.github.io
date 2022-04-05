@@ -13,7 +13,7 @@ Examples of Grace Yang's data science portfolio
 
 ================================================================
 
-## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/gracehikes/proj_ANN_essay_pairings)
+## [Project 2: Approximate Nearest Neighbors of Dating Essays](https://github.com/gracehikes/proj_ANN_essay_pairings)
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
 * I applied Google's TensorFlow Hub (TF-Hub) model to dating essays to get high-dimensional embeddings. These embeddings were then used as input for Approximate Nearest Neighbors (ANN) algorithm and generates a ranking of semantic similarities between the text embeddings. This helps to generate app user matches and recommendations very quickly without losing too much accuracy.
 
@@ -33,8 +33,8 @@ Examples of Grace Yang's data science portfolio
 
 ================================================================
 
-## [Project 4: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/gracehikes/proj_classification_SVC)
-* I used Support Vector Clustering (SVC) to classify the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Can we identify a dating app user's gender or age group from their essay embeddings using SVC algorithms?
+## [Project 4: Classification of Dating App User Features](https://github.com/gracehikes/proj_classification_SVC)
+* I used Support Vector Clustering (SVC) to classify the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Can we identify/classify a dating app user's gender or age group from their essay embeddings using SVC algorithms?
 * The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay: gender prediction accuracy was 65%. Similar explorations by age group did not show good classification accuracies.
 
 ![](/images/SVC%20classification%20gender.png)

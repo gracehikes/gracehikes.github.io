@@ -1,5 +1,7 @@
 Examples of Grace Yang's data science portfolio
 
+================================================================
+
 ## [Project 1: Regression Analysis of Online Screen Time and Teen Mental Health](https://github.com/gracehikes/proj_social_media_teen_mental_health)
 * I explored the relationship between social media screen time spent and its effect on youth mental health. My causal inference study used a large 2019 survey on 20,000+ households in the U.K. It included questions on how much time the young person spent on social media, computer- and other screen-time (game consoles, computer games, TV) as well as questions on how the child felt about different areas of life.
 * There appeared to be adverse effects on a young person’s mental well-being when they spent in excess of 4 hours on social media during a normal school day. The measurements came from 6 mental well-being questions and responses from youths aged 10-15 years old in the U.K. survey. While the mental-health effect estimates varied in magnitude for the 6 questions, I found that they were all toward the more unhappy direction of the emoticon scale.
@@ -8,7 +10,8 @@ Examples of Grace Yang's data science portfolio
 
 ![](/images/project%20report%20effect%20results%20table.png)
 
-***************************************************************************************************
+
+================================================================
 
 ## [Project 2: Approximate Nearest Neighbors (ANN) of 60,000 Dating Essays](https://github.com/gracehikes/proj_ANN_essay_pairings)
 * For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. Match recommendations are not done with brute computation force across all possible pairings or combinations.
@@ -16,7 +19,8 @@ Examples of Grace Yang's data science portfolio
 
 ![](/images/sample%20essay%20and%20top%203%20ANN%20matches.png)
 
-=====================================================================================================
+
+================================================================
 
 ## [Project 3: Cluster Visualizations of 60,000 Dating Essay Embeddings](https://github.com/gracehikes/proj_dating_essays_tSNE_clusters)
 * I first applied Google's Universal Sentence Encoder algorithm in Colab, a Natural Language Processing (NLP) embedding model, to get 512 embedding dimensions for each dating essay. It is not possible to visualize essay clusters in such high-dimensional data. I used the t-Stochastic Neighbor Embedding (t-SNE) algorithm to represent the high-dimensional data in a space with reduced dimensions.
@@ -26,7 +30,8 @@ Examples of Grace Yang's data science portfolio
 
 ![](/images/tSNE%20visual%20cluster%20by%20age.png)
 
-==================================================
+
+================================================================
 
 ## [Project 4: Support Vector Clustering and Classification of 60,000 Dating Essays](https://github.com/gracehikes/proj_classification_SVC)
 * I used Support Vector Clustering (SVC) to classify the dating essays' 512-dimensional embeddings generated from Google’s Universal Sentence Encoder module. Can we identify a dating app user's gender or age group from their essay embeddings using SVC algorithms?
@@ -35,3 +40,4 @@ Examples of Grace Yang's data science portfolio
 ![](/images/SVC%20classification%20gender.png)
 
 
+================================================================
